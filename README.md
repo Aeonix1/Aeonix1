@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge" title="Vue" alt="Vue"/>&nbsp;
   <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge" title="Tailwind"/>&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="Html" alt="Html"/>&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logocolor=white" title="CSS" alt="CSS"/>&nbsp; 
+  <img src="https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logocolor=white" title="CSS" alt="CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=Axios" title="Axios" alt="Axios""/>&nbsp;
   <img src="https://img.shields.io/badge/-Git-BBDDE5?style=for-the-badge&logo=Git" title="Git" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/-Docker-EAEAEA?style=for-the-badge&logo=Docker" title="Docker" alt="Docker"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=Axios" title="Axios" alt="Axios""/>&nbsp;
 </div>
 
 <!--
