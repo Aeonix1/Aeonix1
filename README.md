@@ -9,19 +9,19 @@
 <div>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Php" alt="Php"/>&nbsp;
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge" title="Laravel" alt="Laravel"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%D0%9E%D0%9E%D0%9F-7EBC6F" title="ООП" alt="ООП" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-REST%20API-009688" title="Rest Api" alt="Rest Api" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logocolor=white" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-4169E1" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Vue-4FC08D" title="Vue" alt="Vue" width="40" height="40" style="height: 10%"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Tailwind-06B6D4" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="Html" alt="Html"/>&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-663399?logo=css&logocolor=white" title="CSS" alt="CSS" width="40" height="40"/>&nbsp; 
-  <img src="https://img.shields.io/badge/-Git-BBDDE5?logo=Git" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-EAEAEA?logo=Docker" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Composer-885630?logo=Composer" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=Axios" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Blade-B3382C" title="Blade" alt="Blade" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%D0%9E%D0%9E%D0%9F-7EBC6F?style=for-the-badge" title="ООП" alt="ООП"/>&nbsp;
+  <img src="https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge" title="Rest Api" alt="Rest Api"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=Composer" title="Composer" alt="Composer"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Blade-B3382C?style=for-the-badge" title="Blade" alt="Blade""/>&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-4169E1?style=for-the-badge" title="MySQL" alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge" title="Vue" alt="Vue"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge" title="Tailwind"/>&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="Html" alt="Html"/>&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logocolor=white" title="CSS" alt="CSS"/>&nbsp; 
+  <img src="https://img.shields.io/badge/-Git-BBDDE5?style=for-the-badge&logo=Git" title="Git" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-EAEAEA?style=for-the-badge&logo=Docker" title="Docker" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=Axios" title="Axios" alt="Axios""/>&nbsp;
 </div>
 
 <!--
