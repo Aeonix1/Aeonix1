@@ -19,11 +19,9 @@
   <img src="https://img.shields.io/badge/-CSS-663399?logo=css&logocolor=white" title="CSS" alt="CSS" width="40" height="40"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Git-BBDDE5?logo=Git" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-Docker-EAEAEA?logo=Docker" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="З" alt="Php" width="40" height="40"/>&nbsp;
-  
-
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-Composer-885630?logo=Composer" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=Axios" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Blade-B3382C" title="Blade" alt="Blade" width="40" height="40"/>&nbsp;
 </div>
 
 <!--
