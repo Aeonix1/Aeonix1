@@ -1,13 +1,25 @@
-## Hi there 👋
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+## Привет 👋, меня зовут Олег!
+<hr>
+  <div><h3>Я - Backend | Fullstack разработчик</h3></div>
+<hr>
+  <div>
+    <h3>Обо мне:</h3>
+    <ul>
+      <li>Пишу</li>
+      <li>Постоянно учусь, совершенствую свои знания и улучшаю написание своего кода</li>
+      <li>В свободное время решаю различные задачки, также пишу пет-проекты </li>
+    </ul>
+  </div>
+<!-- <div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhtMHpzZGp6ZGFqcTQxeGdrNDhtNGVxYjlwZTNzZXEwa2p0NDVudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logoColor=white" alt="Email Badge"/>
-</div>
+</div> -->
+
 ---
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
