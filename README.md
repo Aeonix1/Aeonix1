@@ -5,9 +5,10 @@
   <div>
     <h3>Обо мне:</h3>
     <ul>
-      <li>Пишу</li>
-      <li>Постоянно учусь, совершенствую свои знания и улучшаю написание своего кода</li>
+      <li> Пишу</li>
+      <li>🌱 Постоянно учусь, совершенствую свои знания и улучшаю написание своего кода</li>
       <li>В свободное время решаю различные задачки, также пишу пет-проекты </li>
+      <li>💬 Как связаться со мной <a href="https://t.me/Aeonix1"><img src="https://img.shields.io/badge/-@Aeonix1-blue?style=flat&logo=Telegram&logoColor=white" title="Php" alt="Php"/></a></li>
     </ul>
   </div>
 <!-- <div id="header" align="center">
@@ -22,7 +23,7 @@
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и технологии :
 <div>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Php" alt="Php"/>&nbsp;
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge" title="Laravel" alt="Laravel"/>&nbsp;
@@ -39,6 +40,21 @@
   <img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=Axios" title="Axios" alt="Axios""/>&nbsp;
   <img src="https://img.shields.io/badge/-Git-BBDDE5?style=for-the-badge&logo=Git" title="Git" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/-Docker-EAEAEA?style=for-the-badge&logo=Docker" title="Docker" alt="Docker"/>&nbsp;
+</div>
+<hr>
+
+<!--
+### :fire: Статистика :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aeonix1&theme=dark&background=000000)](https://git.io/streak-stats)
+-->
+
+<div>
+  <h3>📚Мои пет-проекты:</h3>
+  <ul>
+    <li><a href="#">SPA-приложение</a> - Web-приложение с базовым функционалом (лайки, репосты, комментарии) </li>
+    <li><a href="https://github.com/Aeonix1/Mini-Blog-laravel8-">Мини-блог</a> - Мини блог с необходимым базовым функционалом (личный кабинет, публикация сообщений, лайки и т.д.). </li>
+  </ul>
 </div>
 
 <!--
