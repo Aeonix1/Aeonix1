@@ -11,13 +11,6 @@
       <li>💬 Как связаться со мной <a href="https://t.me/Aeonix1"><img src="https://img.shields.io/badge/-@Aeonix1-blue?style=flat&logo=Telegram&logoColor=white" title="Php" alt="Php"/></a></li>
     </ul>
   </div>
-<!-- <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhtMHpzZGp6ZGFqcTQxeGdrNDhtNGVxYjlwZTNzZXEwa2p0NDVudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logoColor=white" alt="Email Badge"/>
-</div> -->
 
 ---
 
@@ -51,7 +44,7 @@
 <div>
   <h3>📚Мои пет-проекты:</h3>
   <ul>
-    <li><a href="#">SPA-приложение</a> - Web-приложение с базовым функционалом (лайки, репосты, комментарии) </li>
+    <li><a href="https://github.com/Aeonix1/SPA-application">SPA-приложение</a> - Web-приложение с базовым функционалом (лайки, репосты, комментарии) </li>
     <li><a href="https://github.com/Aeonix1/Mini-Blog-laravel8-">Мини-блог</a> - Мини блог с необходимым базовым функционалом (личный кабинет, публикация сообщений, лайки и т.д.). </li>
   </ul>
 </div>
