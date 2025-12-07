@@ -5,9 +5,9 @@
   <div>
     <h3>Обо мне:</h3>
     <ul>
-      <li> Пишу</li>
-      <li>🌱 Постоянно учусь, совершенствую свои знания и улучшаю написание своего кода</li>
-      <li>В свободное время решаю различные задачки, также пишу пет-проекты </li>
+      <li>🔭 Разрабатываю и реализую Web-приложения на языке PHP(Laravel) и Vue.</li>
+      <li>🌱 Постоянно учусь, совершенствую свои знания и улучшаю написание своего кода.</li>
+      <li>🆓 В свободное время решаю различные задачки, пишу пет-проекты, читаю техническую литературу.</li>
       <li>💬 Как связаться со мной <a href="https://t.me/Aeonix1"><img src="https://img.shields.io/badge/-@Aeonix1-blue?style=flat&logo=Telegram&logoColor=white" title="Php" alt="Php"/></a></li>
     </ul>
   </div>
@@ -20,8 +20,6 @@
 </div> -->
 
 ---
-
-
 
 ### :hammer_and_wrench: Языки и технологии :
 <div>
@@ -40,6 +38,7 @@
   <img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=Axios" title="Axios" alt="Axios""/>&nbsp;
   <img src="https://img.shields.io/badge/-Git-BBDDE5?style=for-the-badge&logo=Git" title="Git" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/-Docker-EAEAEA?style=for-the-badge&logo=Docker" title="Docker" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/-CI/CD-2e34e5?style=for-the-badge" title="CI/CD" alt="CI/CD">&nbsp
 </div>
 <hr>
 
