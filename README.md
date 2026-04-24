@@ -1,6 +1,6 @@
 ## Привет 👋, меня зовут Олег!
 <hr>
-  <div><h3>Я - Backend | Fullstack разработчик</h3></div>
+  <div><h3>Я - Backend, Fullstack разработчик</h3></div>
 <hr>
   <div>
     <h3>Обо мне:</h3>
