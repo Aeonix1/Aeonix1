@@ -5,7 +5,7 @@
   <div>
     <h3>Обо мне:</h3>
     <ul>
-      <li>🔭 Разрабатываю и реализую Web-приложения на языке PHP(Laravel) и Vue.</li>
+      <li>🔭 Разрабатываю и реализую Web-приложения на языке PHP(Laravel, Symfony) и Vue.js .</li>
       <li>🌱 Постоянно учусь, совершенствую свои знания и улучшаю написание своего кода.</li>
       <li>🆓 В свободное время решаю различные задачки, пишу пет-проекты, читаю техническую литературу.</li>
       <li>💬 Как связаться со мной <a href="https://t.me/Aeonix1"><img src="https://img.shields.io/badge/-@Aeonix1-blue?style=flat&logo=Telegram&logoColor=white" title="Php" alt="Php"/></a></li>
