@@ -1,6 +1,6 @@
 ## Привет 👋, меня зовут Олег!
 <hr>
-  <div><h3>Я - Backend, Fullstack разработчик</h3></div>
+  <div><h3>Я - Backend/Fullstack разработчик</h3></div>
 <hr>
   <div>
     <h3>Обо мне:</h3>
@@ -44,8 +44,10 @@
 <div>
   <h3>📚Мои пет-проекты:</h3>
   <ul>
-    <li><a href="https://github.com/Aeonix1/Hypermarket">Гипермаркет</a> - Web-сайт с возможностью просмотра и покупки понравившегося товара </li>
-    <li><a href="https://github.com/Aeonix1/SPA-application">SPA-приложение</a> - Web-приложение с базовым функционалом (лайки, репосты, комментарии) </li>
+    <li><a href="https://github.com/Aeonix1/Hypermarket">Гипермаркет</a> - Web-сайт с возможностью просмотра и покупки понравившегося товара (Laravel, Vue.js) </li>
+    <li><a href="https://github.com/Aeonix1/symfony-vuejs-shop">Магазин одежды</a> - Web-сайт магазина одежды (Symfony)  </li>
+    <li><a href="https://github.com/Aeonix1/SPA-application">SPA-приложение</a> - Web-приложение с базовым функционалом (лайки, репосты, комментарии) (Laravel)</li>
+    <li><a href="https://github.com/Aeonix1/my_php_mvc_framework">php mvc framework</a> - Реализация MVC-паттерна без использования популярных фрейморков </li>
     <li><a href="https://github.com/Aeonix1/Mini-Blog-laravel8-">Мини-блог</a> - Мини блог с необходимым базовым функционалом (личный кабинет, публикация сообщений, лайки и т.д.). </li>
   </ul>
 </div>
