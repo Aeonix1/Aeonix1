@@ -16,9 +16,10 @@
 
 ### :hammer_and_wrench: Языки и технологии :
 <div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Php" alt="Php"/>&nbsp;
+  <img src="https://img.shields.io/badge/-FastApi-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="Php" alt="Php"/>&nbsp;  
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Php" alt="Php"/>&nbsp;
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" title="Laravel" alt="Laravel"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Symfony-5A29E4?style=for-the-badge&logo=symfony" title="Symfony" alt="Symfony""/>&nbsp;
   <img src="https://img.shields.io/badge/-%D0%9E%D0%9E%D0%9F-7EBC6F?style=for-the-badge" title="ООП" alt="ООП"/>&nbsp;
   <img src="https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge" title="Rest Api" alt="Rest Api"/>&nbsp;
   <img src="https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=Composer" title="Composer" alt="Composer"/>&nbsp;
