@@ -49,6 +49,7 @@
     <li><a href="https://github.com/Aeonix1/SPA-application">SPA-приложение</a> - Web-приложение с базовым функционалом (лайки, репосты, комментарии) (Laravel)</li>
     <li><a href="https://github.com/Aeonix1/my_php_mvc_framework">php mvc framework</a> - Реализация MVC-паттерна без использования популярных фрейморков </li>
     <li><a href="https://github.com/Aeonix1/Mini-Blog-laravel8-">Мини-блог</a> - Мини блог с необходимым базовым функционалом (личный кабинет, публикация сообщений, лайки и т.д.). </li>
+    <li><a href="#">API на базе FastApi(Python)</a> - Реализация API на базе фреймворка FastApi(Python) </li>
   </ul>
 </div>
 
